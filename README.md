@@ -1,8 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=KT-kcsf&color=yellow)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KT-kcsf)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -58,6 +56,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KT-kcsf)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KT-kcsf)](https://github.com/anuraghazra/github-readme-stats)
