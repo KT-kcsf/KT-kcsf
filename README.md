@@ -61,7 +61,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KT-kcsf&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KT-kcsf&count_private=true&theme=merko)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KT-kcsf&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KT-kcsf&theme=2077)
