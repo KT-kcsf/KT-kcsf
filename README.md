@@ -57,11 +57,11 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KT-kcsf)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KT-kcsf&theme=merko&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KT-kcsf)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=merko)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KT-kcsf&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KT-kcsf&theme=2077)
