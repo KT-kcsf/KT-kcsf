@@ -64,5 +64,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KT-kcsf&theme=2077)
-[![](https://raw.githubusercontent.com/KT-kcsf/KT-kcsf/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KT-kcsf/KT-kcsf/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/KT-kcsf/KT-kcsf/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KT-kcsf/KT-kcsf/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KT-kcsf&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KT-kcsf&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KT-kcsf&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KT-kcsf&theme=2077&utcOffset=8)
