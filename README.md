@@ -57,7 +57,7 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KT-kcsf&theme=merko&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KT-kcsf&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
